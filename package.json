@@ -1,0 +1,9 @@
+{
+  "name": "parcial-app",
+  "version": "1.0.0",
+  "description": "aplicación Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
